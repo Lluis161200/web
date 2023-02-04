@@ -1,0 +1,111 @@
+body {
+    background-color: #F7A4A4;
+    font-family: sans-serif;
+}
+
+.login {
+    background-color: #FFFFFF;
+    width: 1000px;
+    height: 1500px;
+    margin: 150px auto;
+    border-radius: 20px;
+}
+
+.sign {
+    padding-top: 100px;
+    color: #FEBE8C;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.pobla {
+    width: 75%;
+    font-weight: 150;
+    font-size: 14px;
+    background: #F9F9F9;
+    padding: 10px 20px;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: #00000005;
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    font-family: sans-serif;
+}
+
+.un {
+    width: 75%;
+    font-weight: 150;
+    font-size: 14px;
+    background: #F9F9F9;
+    padding: 10px 20px;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: #00000005;
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    font-family: sans-serif;
+}
+
+.pass {
+    width: 75%;
+    font-weight: 150;
+    font-size: 14px;
+    background: #F9F9F9;
+    padding: 10px 20px;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: #00000005;
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    font-family: sans-serif;
+}
+.codip {
+    width: 75%;
+    font-weight: 150;
+    font-size: 14px;
+    background: #F9F9F9;
+    padding: 10px 20px;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: #00000005;
+    margin-left: 100px;
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    font-family: sans-serif;
+}
+.submit {
+    cursor: pointer;
+    border-radius: 5em;
+    background: #FEBE8C;
+    border: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-family: sans-serif;
+    margin-left: 295px;
+    margin-bottom: 150px;
+    font-size: 13px;
+}
+.login a {
+    color: #187498;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.Signin{
+    padding-top: 75px;
+
+}
